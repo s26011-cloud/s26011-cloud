@@ -44,13 +44,6 @@
 
 </div>
 
-## Projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| 준비 중 | 대표 프로젝트를 여기에 추가해보세요. | React, Node.js |
-| 준비 중 | 배운 내용을 정리한 작은 프로젝트도 좋아요. | JavaScript |
-
 ## Contact
 
 <div align="center">
