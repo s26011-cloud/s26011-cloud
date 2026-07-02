@@ -25,18 +25,6 @@
 
 </div>
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=s26011-cloud&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s26011-cloud&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub streak](https://streak-stats.demolab.com?user=s26011-cloud&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## Contact
 
 <div align="center">
