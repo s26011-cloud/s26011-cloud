@@ -33,6 +33,17 @@
 
 </div>
 
+## Activity Overview
+
+```mermaid
+%%{init: {"theme":"dark", "pie": {"textPosition": 0.72}, "themeVariables": {"pie1":"#39d353", "pie2":"#2f81f7", "pie3":"#d29922", "pie4":"#a371f7"}}}%%
+pie showData
+    "Commits" : 92
+    "Pull Requests" : 7
+    "Issues" : 1
+    "Code Review" : 0
+```
+
 ## Contact
 
 <div align="center">
